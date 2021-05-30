@@ -1,6 +1,6 @@
 # *World Weather Analysis*
 
-## **Overview
+## **Overview*
 
 The purpose of this analysis is to provide travellers with a way to plan their trips based on weather patterns across the globe. 
 
